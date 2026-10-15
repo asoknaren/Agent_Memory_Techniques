@@ -8,7 +8,7 @@
 
 | Difficulty | Time | Prerequisites |
 |------------|------|---------------|
-| Intermediate | ~40 min | Python 3.8+, `ANTHROPIC_API_KEY`, understanding of 06 Vector Store Memory recommended |
+| Intermediate | ~40 min | Python 3.8+, `OPENAI_API_KEY`, understanding of 06 Vector Store Memory recommended |
 
 This technique is for developers who need to measure memory system quality with quantitative metrics like precision, recall, and answer accuracy.
 
